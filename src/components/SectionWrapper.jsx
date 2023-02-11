@@ -25,7 +25,7 @@ const SectionWrapper = ({ title, description, showBtn, mockupImg, banner, revers
           {showBtn && (
             <Button 
               assetUrl={assets.expo}
-              link="https://expo.dev/@mj-creatives/react_native_nft_2?serviceType=classic&distribution=expo-go"
+              link="https://expo.dev/@mj-creatives/ace_project?serviceType=classic&distribution=expo-go"
             />
             
           )}
